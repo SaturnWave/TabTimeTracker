@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "Tab Time Tracker",
+    "version": "1.0",
+    "description": "Track how much time you spend on each tab.",
+    "permissions": ["tabs", "activeTab"],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "action": {
+      "default_popup": "popup.html"
+      
+    }
+    }
+  

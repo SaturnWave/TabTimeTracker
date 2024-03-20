@@ -1,0 +1,25 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 10px;
+    color: #333;
+    background-color: #f4f4f4;
+}
+
+.container {
+    width: 300px;
+}
+
+h1 {
+    font-size: 20px;
+    color: #444;
+}
+
+#time-display p {
+    margin: 5px 0;
+    font-size: 16px;
+}
+
+#time-display span {
+    font-weight: bold;
+}
